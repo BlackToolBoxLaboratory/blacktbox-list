@@ -1,6 +1,6 @@
 # blacktbox-list
 
-Create list for [React](https://facebook.github.io/react).
+Create list with [React](https://facebook.github.io/react).
 
 # Installation
 
