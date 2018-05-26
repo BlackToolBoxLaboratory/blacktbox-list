@@ -22,4 +22,4 @@ Please file [issue](https://github.com/BlackToolBoxLaboratory/blacktbox-list/iss
 
 # Homepage
 
-You can see the document website [on-line](https://blacktoolboxlaboratory.github.io/).
+You can see the document website [on-line](https://blacktoolboxlaboratory.github.io/#/blacktbox-list/basic).
