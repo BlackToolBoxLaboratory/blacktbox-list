@@ -1,3 +1,16 @@
+## v1.1.1
+
+> Jun. 9, 2018
+
+- **Minor**: Update library
+- **issue**: Fix style object clone issue
+
+## v1.0.0
+
+> May. 26, 2018
+
+- **major**: formal release
+
 ## v0.1.4
 
 > Feb. 10, 2018
@@ -16,4 +29,4 @@
 
 > Feb. 3, 2018
 
-- **Minor**: Beta version online for first pushlish test.
+- **Minor**: Beta version online for first pushlish test
