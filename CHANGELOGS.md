@@ -1,8 +1,13 @@
 ## v1.1.1
 
-> Jun. 9, 2018
+> Jun. 10, 2018
 
 - **Minor**: Update library
+
+## v1.0.1
+
+> Jun. 9, 2018
+
 - **issue**: Fix style object clone issue
 
 ## v1.0.0
