@@ -2,7 +2,7 @@ import React from 'react';
 import { mount, configure } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
 
-import Menu from '../module/index.js';
+import List from '../module/index.js';
 
 var testProps = {
   'listArr': [
@@ -48,11 +48,11 @@ var testProps = {
 
 configure({ adapter: new Adapter() });
 
-describe('Test Render Menu ... ', () => {
+describe('Test Render List ... ', () => {
   var render;
   test('With mount', () => {
-    render = mount(<Menu className='testCSS'/>);
-    render = mount(<Menu {...testProps}/>);
+    render = mount(<List className='testCSS'/>);
+    render = mount(<List {...testProps}/>);
   });
   test('Test styleObj', () => {
     testProps['styleObj'] = {

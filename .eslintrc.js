@@ -19,6 +19,8 @@ module.exports = {
     "react"
   ],
   "rules": {
+    "no-console":                 ["error"],
+
     "react/jsx-uses-react":       ["error"],
     "indent":                     ["error", 2],
     "linebreak-style":            ["error", "unix"],
