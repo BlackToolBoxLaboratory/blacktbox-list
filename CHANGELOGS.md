@@ -1,3 +1,11 @@
+## v1.2.1
+
+> Sep. 24, 2018
+
+- **Minor**: Add itemOnClinkFn.
+
+- **Issue**: Add Jest test.
+
 ## v1.1.3
 
 > Sep. 16, 2018
